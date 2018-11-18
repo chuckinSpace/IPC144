@@ -1,0 +1,3 @@
+1 Because whe need to tell the compiler the limits of the array, otherwise we will get a segmentation error, because we will be accesing memory beyond the limits that we are allowed.
+2 advantages, we can declare less varibles because we have arrays, and in matching one, we can storee data from diferents varibles in much lesser lines of code., disadvantages, we can stores only data form the same type.
+3 It was complex to find out where to use the Do while loop, and get the program to exit with the negative number, in general i find it normal.

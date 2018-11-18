@@ -1,0 +1,2 @@
+1. We can use more than one type of variables that are related and accesing them easily, with parallel arrays, we need to declare one array and its data for every type of data that we have.
+2. That way we can edit only the structure in the header file and only that, every time we need to edit something in the structure.
