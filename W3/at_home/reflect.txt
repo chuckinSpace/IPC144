@@ -1,0 +1,3 @@
+- For loop while loop do while loop
+- In a do while loop the intructions execute one time before checking the condition and in a while loop it checks the condition first, so there is the posibiliti that the instruction dont execute if the condition is not true
+- there are comparison symbols that can be use to determine if something is equal, greater, less etc... than another item. And in that way evaluate the expression as true or false

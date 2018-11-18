@@ -1,0 +1,9 @@
+Script started on Tue 19 Sep 2017 01:17:11 PM EDT
+cmoyano-rugiero@matrix:~/IPC144/w2/in_lab> ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+cmoyano-rugiero@matrix:~/IPC144/w2/in_lab> exit
+exit
+
+Script done on Tue 19 Sep 2017 01:17:22 PM EDT

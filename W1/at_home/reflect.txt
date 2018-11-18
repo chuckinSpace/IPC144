@@ -1,0 +1,3 @@
+qI learned how to use the printf funtion, to output text in ther screen,
+and also so indent the lines of code to make it more readable, and also
+I learned how to use a header file like stdio.h

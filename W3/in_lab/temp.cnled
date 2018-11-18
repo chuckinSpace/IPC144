@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+#define NUMS 3
+
+int(void){
+
+	int total_high =0, total_low;
+	int low[NUMS],high[NUMS];
+	int i;
+	float average;
+
+	for(i=0;i<NUMS;i++){
+		do{              
+			printf("Enter high value for day %d",i+1);
+			scanf("%d",&high[i]);
+			printf("Enter low value for day %d",i+1);
+			scanf("%d",&low[i]);
+		}
+	}
+
+
+
+
+
+
+
+
+
+	return 0;
+}

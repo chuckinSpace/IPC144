@@ -1,0 +1,4 @@
+1- The use of mod tho get reaminder, and operations with variables.
+2- Because C always round down by default
+3- It changes the type of the operation just for that particular sentence, so in this case we can use a float as an integer to just get en integer part of the number.
+4- Because it can be very useful in the future to get the remainder of operation.
