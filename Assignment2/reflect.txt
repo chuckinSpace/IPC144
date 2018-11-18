@@ -1,0 +1,3 @@
+1 functions is set of intruction that performs a specific task and is ussualy a a repetitive task throught the program, and helo to encapsulate the instruction to have less code to modify in case of the need for a change.
+
+2 Helps use link diferent files to the same declarations present on the header files si we can use multiple files link to those declarations.

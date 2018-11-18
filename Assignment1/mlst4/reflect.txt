@@ -1,0 +1,3 @@
+1 to make our code more efficient buy holding the other members structures inside.
+2 using pointer to structures
+3 2 weeks1 

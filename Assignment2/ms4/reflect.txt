@@ -1,0 +1,3 @@
+1 The findContactIndex helpo us fin the rigth index for every time that we need to check if there is any spce available in the array, and to know where to put the nw data, so we dont need to write that code every time, and the get tendigitphone, help us verify that the number that is being used is really a 10 digit numner and not something else, and in the future we can change the lengt of the number just by modifyin that function.
+
+2 A lot of using functions, pointer and structures, and how to create function when i need something that is going to be used more thatn one time.

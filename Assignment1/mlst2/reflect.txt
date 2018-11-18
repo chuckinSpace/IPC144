@@ -1,0 +1,2 @@
+1 With the use of functions we can make the code more efficient.
+2 We need one more space in memory, to hold the null terminator.
